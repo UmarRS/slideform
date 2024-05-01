@@ -1,16 +1,16 @@
 {
-  "name": "oneform",
+  "name": "sliform",
   "version": "1.0.0",
-  "description": "",
+  "description": "A form builder for simple forms",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --mode development --open"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
+  "author": "Umar",
+  "license": "MIT",
+  "peerDependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
