@@ -31,6 +31,6 @@ module.exports = {
 
 ```
 
-## Mentons
+## Mentions
 
 If you have a project that uses SlideForm, please open an issue so I can mention it.
